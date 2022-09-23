@@ -1,6 +1,9 @@
+
 ![I am student of software engineering.](https://pbs.twimg.com/profile_banners/1522620854189711361/1663967792/1080x360)
 ### Hi there 👋, My name is Ahsan
 #### I am student of software engineering.
+
+
 Here I come to store my different category code so that anyone can get help to understand programming language and web language so easily.
 
 Skills: / REACT / JS / HTML / CSS
@@ -16,11 +19,7 @@ Skills: / REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsanrtx)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahsanrtx&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ahsanrtx)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Ahsanrtx)  
 
