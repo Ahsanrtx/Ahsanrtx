@@ -6,12 +6,11 @@
 
 Here I come to store my different category code so that anyone can get help to understand programming language and web language so easily.
 
-Skills: / REACT / JS / HTML / CSS
+Skills: / JS / HTML / CSS
 
-- 🔭 I’m currently working on mobile apps & web application. 
 - 🌱 I’m currently learning Web development. 
 - 👯 I’m looking to collaborate on google. 
-- 💬 Ask me about mobile apps and web application. 
+- 💬 Ask me about web application. 
 - 📫 How to reach me: +8801629001359 or Ahsanul-35-531@diu.edu.bd 
 
 
